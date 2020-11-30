@@ -33,7 +33,7 @@ body{
 .secondary {
     order: -1; */
 
-}
+/* } */
 .button{
     margin-top: auto;
     align-self: flex-start;
@@ -53,5 +53,5 @@ body{
     .primary{
         flex-grow: 1.4;
     }
-    }
 }
+
